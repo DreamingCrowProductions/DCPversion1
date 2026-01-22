@@ -8,7 +8,7 @@ function App() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2">
               <Heart className="w-6 h-6 text-rose-500" />
-              <span className="text-xl font-semibold text-gray-800">Sarah's Story</span>
+              <span className="text-xl font-semibold text-gray-800">Gladys Clausen</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#about" className="text-gray-600 hover:text-rose-600 transition-colors">About</a>
@@ -57,7 +57,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                Hello, I'm Sarah
+                Hello, I'm Gladys
               </h2>
               <div className="prose prose-lg text-gray-600 space-y-4">
                 <p>
@@ -105,9 +105,9 @@ function App() {
                 <BookOpen className="w-24 h-24 text-white" />
               </div>
               <div className="p-8">
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">The Courage to Choose</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-3">Modified: The Journey to My New Normal</h3>
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  A deeply personal memoir chronicling my discovery of being BRCA positive and the powerful journey of making preventive choices. This book offers hope, practical guidance, and emotional support for women facing similar decisions.
+                  A deeply personal memoir chronicling my journey as a BRCA previvor and the transformative process of embracing my new normal. This book shares the emotional, physical, and spiritual aspects of preventive surgery and rediscovering strength.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-6">
                   <span className="px-3 py-1 bg-rose-100 text-rose-700 rounded-full text-sm">Memoir</span>
@@ -125,14 +125,14 @@ function App() {
                 <BookOpen className="w-24 h-24 text-white" />
               </div>
               <div className="p-8">
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">Beyond the Gene</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-3">Will Mommy Be Okay</h3>
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  An empowering guide to life after preventive surgery, covering physical recovery, emotional healing, and rediscovering your identity. Features stories from other previvors and expert medical insights.
+                  A heartfelt guide for mothers navigating their BRCA journey and supporting their families through preventive care decisions. This book addresses the unique emotional landscape of parenthood and genetic risk, offering compassion and practical wisdom.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-6">
-                  <span className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm">Recovery Guide</span>
-                  <span className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm">Wellness</span>
-                  <span className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm">Inspiration</span>
+                  <span className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm">Family Guide</span>
+                  <span className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm">Parenting</span>
+                  <span className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm">Support</span>
                 </div>
                 <button className="w-full py-3 bg-gradient-to-r from-amber-500 to-amber-600 text-white rounded-xl font-semibold hover:from-amber-600 hover:to-amber-700 transition-all transform group-hover:-translate-y-0.5">
                   Learn More
@@ -207,13 +207,13 @@ function App() {
         <div className="max-w-7xl mx-auto text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Heart className="w-6 h-6 text-rose-400" />
-            <span className="text-xl font-semibold">Sarah's Story</span>
+            <span className="text-xl font-semibold">Gladys Clausen</span>
           </div>
           <p className="text-gray-400 mb-4">
             Empowering women through shared experiences and informed choices
           </p>
           <p className="text-gray-500 text-sm">
-            © 2024 Sarah's Story. All rights reserved.
+            © 2024 Gladys Clausen. All rights reserved.
           </p>
         </div>
       </footer>
